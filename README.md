@@ -156,4 +156,4 @@ After setup, use the **⚙ CONFIGURE** button in the right panel to change any s
 
 ## License
 
-MIT — FatihMakes Industries
+MIT
